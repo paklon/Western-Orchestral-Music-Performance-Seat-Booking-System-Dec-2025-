@@ -41,11 +41,15 @@ Optimized for multi-platform usage with adaptive layouts and collapsible navigat
 * Access to a MongoDB instance (Local MongoDB or MongoDB Atlas)
 
 ### 2. Clone the Repository
+```bash
 git clone [https://github.com/your-username/your-repo-name.git]
 cd your-repo-name
+```
 
 ### 3. Install Server Dependencies
+```bash
 npm install
+```
 
 ### 4. Configure MongoDB Connection
 * Edit MongoDB URL in .env
@@ -55,8 +59,13 @@ npm install
 * The required database and collections are automatically created when the app runs and data is added
 
 ### 6. Run the Project
-npm start or node server.js
-
+```bash
+npm start
+```
+OR
+```bash
+node server.js
+```
 ### 7. Access the Web App
 * Open your browser and go to: http://localhost:8080
 
