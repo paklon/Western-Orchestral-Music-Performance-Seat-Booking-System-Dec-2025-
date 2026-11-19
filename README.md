@@ -60,3 +60,7 @@ npm start or node server.js
 ### 7. Access the Web App
 * Open your browser and go to: http://localhost:8080
 
+---
+
+### 👤 Author
+* Yuen Pak Hei — BSc in Information Security, The Hong Kong Polytechnic University 
